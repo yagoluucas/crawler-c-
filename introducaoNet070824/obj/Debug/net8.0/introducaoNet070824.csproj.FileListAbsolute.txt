@@ -1,0 +1,15 @@
+C:\Users\Yago\programacao\2_ano\.net\projeto\introducaoNet070824\introducaoNet070824\bin\Debug\net8.0\introducaoNet070824.exe
+C:\Users\Yago\programacao\2_ano\.net\projeto\introducaoNet070824\introducaoNet070824\bin\Debug\net8.0\introducaoNet070824.deps.json
+C:\Users\Yago\programacao\2_ano\.net\projeto\introducaoNet070824\introducaoNet070824\bin\Debug\net8.0\introducaoNet070824.runtimeconfig.json
+C:\Users\Yago\programacao\2_ano\.net\projeto\introducaoNet070824\introducaoNet070824\bin\Debug\net8.0\introducaoNet070824.dll
+C:\Users\Yago\programacao\2_ano\.net\projeto\introducaoNet070824\introducaoNet070824\bin\Debug\net8.0\introducaoNet070824.pdb
+C:\Users\Yago\programacao\2_ano\.net\projeto\introducaoNet070824\introducaoNet070824\obj\Debug\net8.0\introducaoNet070824.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yago\programacao\2_ano\.net\projeto\introducaoNet070824\introducaoNet070824\obj\Debug\net8.0\introducaoNet070824.AssemblyInfoInputs.cache
+C:\Users\Yago\programacao\2_ano\.net\projeto\introducaoNet070824\introducaoNet070824\obj\Debug\net8.0\introducaoNet070824.AssemblyInfo.cs
+C:\Users\Yago\programacao\2_ano\.net\projeto\introducaoNet070824\introducaoNet070824\obj\Debug\net8.0\introducaoNet070824.csproj.CoreCompileInputs.cache
+C:\Users\Yago\programacao\2_ano\.net\projeto\introducaoNet070824\introducaoNet070824\obj\Debug\net8.0\introducaoNet070824.sourcelink.json
+C:\Users\Yago\programacao\2_ano\.net\projeto\introducaoNet070824\introducaoNet070824\obj\Debug\net8.0\introducaoNet070824.dll
+C:\Users\Yago\programacao\2_ano\.net\projeto\introducaoNet070824\introducaoNet070824\obj\Debug\net8.0\refint\introducaoNet070824.dll
+C:\Users\Yago\programacao\2_ano\.net\projeto\introducaoNet070824\introducaoNet070824\obj\Debug\net8.0\introducaoNet070824.pdb
+C:\Users\Yago\programacao\2_ano\.net\projeto\introducaoNet070824\introducaoNet070824\obj\Debug\net8.0\introducaoNet070824.genruntimeconfig.cache
+C:\Users\Yago\programacao\2_ano\.net\projeto\introducaoNet070824\introducaoNet070824\obj\Debug\net8.0\ref\introducaoNet070824.dll

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "rc/hDoBgCsE=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Yago\\programacao\\2_ano\\.net\\projeto\\introducaoNet070824\\EstudoCrawler\\EstudoCrawler.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Yago\\.nuget\\packages\\htmlagilitypack\\1.11.62\\htmlagilitypack.1.11.62.nupkg.sha512"
+  ],
+  "logs": []
+}

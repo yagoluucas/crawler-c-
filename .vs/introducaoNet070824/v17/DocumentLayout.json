@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Yago\\programacao\\2_ano\\.net\\projeto\\introducaoNet070824\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D68A5526-AB57-4423-BD95-10CACBB8B7CE}|introducaoNet070824\\introducaoNet070824.csproj|c:\\users\\yago\\programacao\\2_ano\\.net\\projeto\\introducaonet070824\\introducaonet070824\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D68A5526-AB57-4423-BD95-10CACBB8B7CE}|introducaoNet070824\\introducaoNet070824.csproj|solutionrelative:introducaonet070824\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF5943D7-711A-4F5E-B947-BF3467EEE892}|EstudoCrawler\\EstudoCrawler.csproj|c:\\users\\yago\\programacao\\2_ano\\.net\\projeto\\introducaonet070824\\estudocrawler\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF5943D7-711A-4F5E-B947-BF3467EEE892}|EstudoCrawler\\EstudoCrawler.csproj|solutionrelative:estudocrawler\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D712D61B-AC45-42AC-B818-957B029B434E}|MetaCriticCrawler\\MetaCriticCrawler.csproj|c:\\users\\yago\\programacao\\2_ano\\.net\\projeto\\introducaonet070824\\metacriticcrawler\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D712D61B-AC45-42AC-B818-957B029B434E}|MetaCriticCrawler\\MetaCriticCrawler.csproj|solutionrelative:metacriticcrawler\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF5943D7-711A-4F5E-B947-BF3467EEE892}|EstudoCrawler\\EstudoCrawler.csproj|c:\\users\\yago\\programacao\\2_ano\\.net\\projeto\\introducaonet070824\\estudocrawler\\lojaentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF5943D7-711A-4F5E-B947-BF3467EEE892}|EstudoCrawler\\EstudoCrawler.csproj|solutionrelative:estudocrawler\\lojaentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF5943D7-711A-4F5E-B947-BF3467EEE892}|EstudoCrawler\\EstudoCrawler.csproj|c:\\users\\yago\\programacao\\2_ano\\.net\\projeto\\introducaonet070824\\estudocrawler\\utils\\utils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF5943D7-711A-4F5E-B947-BF3467EEE892}|EstudoCrawler\\EstudoCrawler.csproj|solutionrelative:estudocrawler\\utils\\utils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Yago\\programacao\\2_ano\\.net\\projeto\\introducaoNet070824\\MetaCriticCrawler\\Program.cs",
+              "RelativeDocumentMoniker": "MetaCriticCrawler\\Program.cs",
+              "ToolTip": "C:\\Users\\Yago\\programacao\\2_ano\\.net\\projeto\\introducaoNet070824\\MetaCriticCrawler\\Program.cs",
+              "RelativeToolTip": "MetaCriticCrawler\\Program.cs",
+              "ViewState": "AQIAAFkAAAAAAAAAAAAAAG4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T19:57:05.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Yago\\programacao\\2_ano\\.net\\projeto\\introducaoNet070824\\introducaoNet070824\\Program.cs",
+              "RelativeDocumentMoniker": "introducaoNet070824\\Program.cs",
+              "ToolTip": "C:\\Users\\Yago\\programacao\\2_ano\\.net\\projeto\\introducaoNet070824\\introducaoNet070824\\Program.cs",
+              "RelativeToolTip": "introducaoNet070824\\Program.cs",
+              "ViewState": "AQIAAF0AAAAAAAAAAAAAAGIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T19:56:57.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Utils.cs",
+              "DocumentMoniker": "C:\\Users\\Yago\\programacao\\2_ano\\.net\\projeto\\introducaoNet070824\\EstudoCrawler\\Utils\\Utils.cs",
+              "RelativeDocumentMoniker": "EstudoCrawler\\Utils\\Utils.cs",
+              "ToolTip": "C:\\Users\\Yago\\programacao\\2_ano\\.net\\projeto\\introducaoNet070824\\EstudoCrawler\\Utils\\Utils.cs",
+              "RelativeToolTip": "EstudoCrawler\\Utils\\Utils.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T19:09:39.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LojaEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Yago\\programacao\\2_ano\\.net\\projeto\\introducaoNet070824\\EstudoCrawler\\LojaEntity.cs",
+              "RelativeDocumentMoniker": "EstudoCrawler\\LojaEntity.cs",
+              "ToolTip": "C:\\Users\\Yago\\programacao\\2_ano\\.net\\projeto\\introducaoNet070824\\EstudoCrawler\\LojaEntity.cs",
+              "RelativeToolTip": "EstudoCrawler\\LojaEntity.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwA4AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T01:29:44.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Yago\\programacao\\2_ano\\.net\\projeto\\introducaoNet070824\\EstudoCrawler\\Program.cs",
+              "RelativeDocumentMoniker": "EstudoCrawler\\Program.cs",
+              "ToolTip": "C:\\Users\\Yago\\programacao\\2_ano\\.net\\projeto\\introducaoNet070824\\EstudoCrawler\\Program.cs",
+              "RelativeToolTip": "EstudoCrawler\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T23:06:02.374Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

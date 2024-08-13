@@ -1,0 +1,17 @@
+C:\Users\Yago\programacao\2_ano\.net\projeto\introducaoNet070824\EstudoCrawler\bin\Debug\net8.0\EstudoCrawler.exe
+C:\Users\Yago\programacao\2_ano\.net\projeto\introducaoNet070824\EstudoCrawler\bin\Debug\net8.0\EstudoCrawler.deps.json
+C:\Users\Yago\programacao\2_ano\.net\projeto\introducaoNet070824\EstudoCrawler\bin\Debug\net8.0\EstudoCrawler.runtimeconfig.json
+C:\Users\Yago\programacao\2_ano\.net\projeto\introducaoNet070824\EstudoCrawler\bin\Debug\net8.0\EstudoCrawler.dll
+C:\Users\Yago\programacao\2_ano\.net\projeto\introducaoNet070824\EstudoCrawler\bin\Debug\net8.0\EstudoCrawler.pdb
+C:\Users\Yago\programacao\2_ano\.net\projeto\introducaoNet070824\EstudoCrawler\bin\Debug\net8.0\HtmlAgilityPack.dll
+C:\Users\Yago\programacao\2_ano\.net\projeto\introducaoNet070824\EstudoCrawler\obj\Debug\net8.0\EstudoCrawler.csproj.AssemblyReference.cache
+C:\Users\Yago\programacao\2_ano\.net\projeto\introducaoNet070824\EstudoCrawler\obj\Debug\net8.0\EstudoCrawler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yago\programacao\2_ano\.net\projeto\introducaoNet070824\EstudoCrawler\obj\Debug\net8.0\EstudoCrawler.AssemblyInfoInputs.cache
+C:\Users\Yago\programacao\2_ano\.net\projeto\introducaoNet070824\EstudoCrawler\obj\Debug\net8.0\EstudoCrawler.AssemblyInfo.cs
+C:\Users\Yago\programacao\2_ano\.net\projeto\introducaoNet070824\EstudoCrawler\obj\Debug\net8.0\EstudoCrawler.csproj.CoreCompileInputs.cache
+C:\Users\Yago\programacao\2_ano\.net\projeto\introducaoNet070824\EstudoCrawler\obj\Debug\net8.0\EstudoCr.E825ABC1.Up2Date
+C:\Users\Yago\programacao\2_ano\.net\projeto\introducaoNet070824\EstudoCrawler\obj\Debug\net8.0\EstudoCrawler.dll
+C:\Users\Yago\programacao\2_ano\.net\projeto\introducaoNet070824\EstudoCrawler\obj\Debug\net8.0\refint\EstudoCrawler.dll
+C:\Users\Yago\programacao\2_ano\.net\projeto\introducaoNet070824\EstudoCrawler\obj\Debug\net8.0\EstudoCrawler.pdb
+C:\Users\Yago\programacao\2_ano\.net\projeto\introducaoNet070824\EstudoCrawler\obj\Debug\net8.0\EstudoCrawler.genruntimeconfig.cache
+C:\Users\Yago\programacao\2_ano\.net\projeto\introducaoNet070824\EstudoCrawler\obj\Debug\net8.0\ref\EstudoCrawler.dll
